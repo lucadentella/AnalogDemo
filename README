@@ -1,0 +1,5 @@
+A demo program, written in C#, to plot incoming data
+and update a Pachube datastream.
+
+Luca Dentella (luca@dentella.it)
+http://www.lucadentella.it
