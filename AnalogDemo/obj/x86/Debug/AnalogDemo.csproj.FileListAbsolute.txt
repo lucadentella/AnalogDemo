@@ -9,3 +9,10 @@ C:\Users\dentellaluca\Elettronica\Miei progetti\ArduCSensor\Sw\ArduCSensor\Analo
 C:\Users\dentellaluca\Elettronica\Miei progetti\ArduCSensor\Sw\ArduCSensor\AnalogDemo\obj\x86\Debug\AnalogDemo.pdb
 C:\Users\dentellaluca\Git\AnalogDemo\AnalogDemo\obj\x86\Debug\AnalogDemo.exe
 C:\Users\dentellaluca\Git\AnalogDemo\AnalogDemo\obj\x86\Debug\AnalogDemo.pdb
+C:\Users\dentellaluca\Git\AnalogDemo\AnalogDemo\bin\Debug\AnalogDemo.exe
+C:\Users\dentellaluca\Git\AnalogDemo\AnalogDemo\bin\Debug\AnalogDemo.pdb
+C:\Users\dentellaluca\Git\AnalogDemo\AnalogDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dentellaluca\Git\AnalogDemo\AnalogDemo\obj\x86\Debug\AnalogDemo.Form1.resources
+C:\Users\dentellaluca\Git\AnalogDemo\AnalogDemo\obj\x86\Debug\AnalogDemo.Properties.Resources.resources
+C:\Users\dentellaluca\Git\AnalogDemo\AnalogDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dentellaluca\Git\AnalogDemo\AnalogDemo\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -63,6 +63,9 @@ namespace AnalogDemo
             mySerie.Color = Color.Red;
             mySerie.XValueType = ChartValueType.DateTime;
             chart1.Series.Add(mySerie);
+
+            DateTime timeStamp = DateTime.Now;
+            chart1.Series[0].Points.AddXY(timeStamp, 0);
         }
 
         private void Form1_Load(object sender, EventArgs e)
